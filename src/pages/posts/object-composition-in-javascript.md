@@ -8,6 +8,8 @@ layout: ../../layouts/post.astro
 
 # Object composition in JavaScript
 
+<span class="date">{frontmatter.date}</span>
+
 When we work with classes and objects we are traditionally told to use inheritance to share common functionality and to avoid code duplication.
 While this approach works fine, there are some problems that come with it. I don't want to go into problems with inheritance in this post, but to 
 introduce you a different approach of thinking and code reuse when you work with objects.

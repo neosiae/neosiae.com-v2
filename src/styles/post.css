@@ -14,6 +14,10 @@
   font-size: 2.5rem;
 }
 
+.post .date {
+  font-size: 1.5rem;
+}
+
 .post .astro-code {
   font-size: 1.5rem;
   padding: 1rem;

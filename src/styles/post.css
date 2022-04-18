@@ -1,0 +1,29 @@
+.post {
+  padding: 1rem;
+}
+
+.post p {
+  font-size: 2rem;
+}
+
+.post h1 {
+  font-size: 3rem;
+}
+
+.post h2 {
+  font-size: 2.5rem;
+}
+
+.post .astro-code {
+  font-size: 1.5rem;
+  padding: 1rem;
+  border-radius: 0.2rem;
+}
+
+@media screen and (min-width: 36em) {
+  .post {
+    max-width: 69.2em;
+    margin: 0 auto;
+    padding: 1rem 0;
+  }
+}

@@ -9,8 +9,9 @@ const sortedPosts = allPosts.sort(
 );
 ---
 
-<MainLayout title="posts">
+<MainLayout title="Posts">
   <section class="posts">
+    <h1 class="heading">Posts.</h1>
     {sortedPosts.map(post => (
       <PostPreview post={post.frontmatter} />
     ))}

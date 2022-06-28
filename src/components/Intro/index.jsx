@@ -5,7 +5,7 @@ const Intro = () => {
   return (
     <section className="intro">
       <h1 className="pseudonym">neosiae</h1>
-      <p className="interests">tech and electronic music</p>
+      <p className="interests">frontend engineer and bedroom music producer</p>
       <Links />
     </section>
   )

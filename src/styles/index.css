@@ -1,15 +1,8 @@
 main {
   width: 100vw;
   height: 100vh;
+  margin: 0 auto;
   display: flex;
   justify-content: center;
   align-items: center;
-  border-bottom: 3rem solid rgba(0, 0, 0, 0.05);
-}
-
-
-@media screen and (min-width: 36em) {
-  main {
-    border-bottom: 5rem solid rgba(0, 0, 0, 0.05);
-  }
 }

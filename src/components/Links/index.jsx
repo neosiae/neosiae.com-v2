@@ -13,7 +13,7 @@ const Links = () => {
           </a>
         </li>
         <li>
-          <a href="https://soundcloud.com/neosiae" target="_blank">
+          <a href="https://soundcloud.com/asyncftw" target="_blank">
             soundcloud
           </a>
         </li>
